@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Peter Berrill"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Marie Skłodowska-Curie Actions Individual Fellowship researcher at [Technische Universität Berlin](https://www.susturbecon.tu-berlin.de/team/), and [MCC Berlin](https://www.mcc-berlin.net/ueber-uns/team/berrill-peter.html), working on the project Sustainable Urban Form For Integrated Climate Change Solutions ([SUFFICCS](https://cordis.europa.eu/project/id/101027476)).
+I am a Marie Skłodowska-Curie Actions Individual Fellowship researcher at [Technische Universität Berlin](https://www.susturbecon.tu-berlin.de/team/), and [MCC Berlin](https://www.mcc-berlin.net/ueber-uns/team/berrill-peter.html), currently working on the project Sustainable Urban Form For Integrated Climate Change Solutions ([SUFFICCS](https://cordis.europa.eu/project/id/101027476)).
+SUFFICCS is a 2-year project which aimed at integrating the modelling and understanding of service levels, energy demand, and emissions from buildings and transport sectors in urban areas. Urban form constitutes the main connection between these sectors, as they jointly produce, and are influenced by urban form.
+
+I earned my PhD at the Center for Industrial Ecology at Yale School of the Environment, graduating in June 2021 with a [dissertation](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1012&context=gsas_dissertations) titled 'A comparison of strategies for mitigation of lifecycle greenhouse gases from residential buildings in the United States' 
+
+I have a Masters in Industrial Ecology from jointly awarded by University of Graz and Leiden University. 
+
+A recent CV can be found [here](https://peterberr.github.io/files/Berrill_CV_Nov_2022.pdf)
