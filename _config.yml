@@ -178,6 +178,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
@@ -212,7 +215,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _reseearch
+  # _research
   - scope:
       path: ""
       type: research
