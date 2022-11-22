@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peter Berrill"
 title_separator          : "-"
 name                     : &name "Peter Berrill"
-description              : &description "Marie Skłodowska-Curie Actions Individual Fellowship researcher at [Technische Universität Berlin](https://www.susturbecon.tu-berlin.de/team/), and [MCC Berlin](https://www.mcc-berlin.net/ueber-uns/team/berrill-peter.html)."
+description              : &description "minimal description"
 url                      : https://peterberrill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "peterberr/peterberr.github.io"
@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "Update_Config"
+  commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
