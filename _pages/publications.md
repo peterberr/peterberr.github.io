@@ -33,6 +33,7 @@ The evolution of housing stocks determines demand for construction materials and
 Housing construction constitutes an important share of annual residential GHG emissions in the US. The characteristics of new construction also influence residential energy use over longer time periods. Increasing the share of multifamily housing in construction and reducing the average size of new single-family homes by eliminating very large homes are two strategies that can reliably and substantially reduce the environmental burdens of new construction. These same strategies would limit or, if combined, reverse the growth of residential floor area per person, enabling reductions of energy-related emissions. Policymakers can therefore reduce residential sector emissions in the short and long terms by encouraging the supply of multifamily homes and smaller housing typologies, and limiting construction of large homes.
 
 **Drivers of change in U.S. residential energy consumption and greenhouse gas emissions, 1990-2015** (2021) *Environmental Research Letters* with Kenneth T. Gillingham & Edgar G. Hertwich
+
 [Paper](10.1088/1748-9326/abe325) (open access)
 [News1](https://environment.yale.edu/news/article/what-is-driving-reductions-in-residential-greenhouse-gas-emissions-in-the-us)
 [News2](https://subscriber.politicopro.com/article/eenews/1063732191)
@@ -43,9 +44,10 @@ Housing construction constitutes an important share of annual residential GHG em
 Annual greenhouse gas (GHG) emissions from residential energy use in the United States peaked in 2005 at 1.26 Gt CO2-eq/yr, and have since decreased at an average annual rate of 2% yr−1 to 0.96 Gt CO2-eq/yr in 2019. In this article we decompose changes in US residential energy supply and GHG emissions over the period 1990–2015 into relevant drivers for four end-use categories. The chosen drivers encompass changing demographics, housing characteristics, energy end-use intensities, and generation efficiency and GHG intensity of electricity. Reductions in household size, growth in heated floor area per house, and increased access to space cooling are the main drivers of increases in energy and GHG emissions after population growth. Growing shares of newer homes, and reductions in intensity of energy use per capita, household, or floor area have produced moderate primary energy and GHG emission reductions, but improved generation efficiency and decarbonization of electricity supply have brought about far bigger primary energy and GHG emission reductions. Continued decline of residential emissions from electrification of residential energy and decarbonization of electricity supply can be expected, but not fast enough to limit climate change to 1.5 °C warming. US residential final energy demand will therefore need to decline in absolute terms to meet such a target. However, without changes in the age distribution, type mix, or average size of housing, improvements in energy efficiency are unlikely to outweigh growth in the number of households from population growth and further household size reductions.
 
 **Linking Housing Policy, Housing Typology, and Residential Energy Demand in the United States** (2021) *Environmental Science & Technology* with Kenneth T. Gillingham & Edgar G. Hertwich
-[Paper](/10.1021/acs.est.0c05696 (open access)
+
+[Paper](https://doi.org/10.1021/acs.est.0c05696) (open access)
 [News](https://cleantechnica.com/2021/07/03/build-mixed-income-housing-in-wealthy-urban-neighborhoods/)
-[Award](https://pubs.acs.org/doi/full/10.1021/acs.est.2c07931?utm_source=pcm&utm_medium=twitter&utm_campaign=UCV000069_ELH_esthag&src=UCV000069_ELH_esthag&utm_content=) (runner up in best papers, Policy section)
+[Award (EST best paper runner up)](https://pubs.acs.org/doi/full/10.1021/acs.est.2c07931?utm_source=pcm&utm_medium=twitter&utm_campaign=UCV000069_ELH_esthag&src=UCV000069_ELH_esthag&utm_content=)
 [tweet](https://twitter.com/berrill_peter/status/1355647577274908672?s=20&t=0LZdEZL1_JRi2QjP6evJAg)
 [github](https://github.com/peterberr/us_housing_energy)
 
