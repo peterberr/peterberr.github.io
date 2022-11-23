@@ -28,3 +28,14 @@ My research has three main themes:
  - Life Cycle Analysis of energy systems
 
 Further information on each research theme can be found in the Projects and Publications pages.
+
+### Methods
+
+My academic background is in Industrial Ecology, which encourages e a systems thinking perspective for all research topics. I employ a number of different research methods and tools, depending on the research project, and nature of the research question. These include:
+ - Energy System Analysis
+ - Life Cycle Analysis
+ - Material Flow Analysis & Dynamic Stock Modelling
+ - Environmentally Extended Input Output Analysis
+ - Index Decomposition Analysis
+ - Machine Learning (gradient-boosted decision trees)
+ - Other statistical methods

@@ -17,7 +17,8 @@ Urbanisation is a global demographic trend poised to continue throughout the twe
 
 Papers/sub-modules:
  1. Influence of Urban Form on Mode Choice and Trip Distance: Evidence from 19 European Cities (in preparation)
- Code and most recent results can be found at https://github.com/peterberr/city_mobility
+
+ Code and most recent results can be [here](https://github.com/peterberr/city_mobility), (pending public release)
 
 
 #### Contact:
