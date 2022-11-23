@@ -13,6 +13,18 @@ SUFFICCS is a 2-year project which aimed at integrating the modelling and unders
 
 I earned my PhD at the Center for Industrial Ecology at Yale School of the Environment, graduating in June 2021 with a [dissertation](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1012&context=gsas_dissertations) titled 'A comparison of strategies for mitigation of lifecycle greenhouse gases from residential buildings in the United States' 
 
-I have a Masters in Industrial Ecology from jointly awarded by University of Graz and Leiden University. 
+I have a Masters in Industrial Ecology jointly awarded by University of Graz and Leiden University. 
 
 A recent CV can be found [here](https://peterberr.github.io/files/Berrill_CV_Nov_2022.pdf)
+
+## Research
+
+I do research on anthropogenic activities linked to climate change, and on decarboninsation pathways. 
+
+My research has three main themes: 
+
+ - Integrated analysis of energy and emissions from buildings and transport sectors, connected by their joint dependence on urban form
+ - Sources and drivers of energy/material demand and emissions, and decarbonisation pathways in buildings
+ - Life Cycle Analysis of energy systems
+
+Further information on each research theme can be found in the Projects and Publications pages.
