@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## First-author publications
+## Featured publications
 
 **Decarbonization pathways for the residential sector in the United States, 2020-2060** (2022) *Nature Climate Change*, with Eric J.H. Wilson, Janet L. Reyna, Anthony D. Fontanini & Edgar G. Hertwich
 
@@ -24,6 +24,7 @@ Residential GHG emissions in the United States are driven in part by a housing s
 [tweet1](https://twitter.com/berrill_peter/status/1412310986443440128?s=20&t=0LZdEZL1_JRi2QjP6evJAg)
 [tweet2](https://twitter.com/berrill_peter/status/1455254301375356928?s=20&t=0LZdEZL1_JRi2QjP6evJAg)
 [github](https://github.com/peterberr/US_county_HSM)
+[YouTube](https://youtu.be/EIb2h1OSUn8)
 
 ### Abstract
 The evolution of housing stocks determines demand for construction materials and energy, and associated emissions of greenhouse gasses (GHGs). The contribution of construction to building life-cycle emissions is growing as buildings become more energy efficient and the energy supply decarbonizes. A housing stock model is developed for counties in the United States using dynamic vacancy rates which endogenously influence stock out- and inflows. Stocks of three house types and 10 construction cohorts are projected for all contiguous US counties for the period 2020–60. Inflows and outflows of construction materials are then estimated along with GHG emissions associated with material production and construction activities in scenarios defined by stock turnover rates, population share by house type, and floor area characteristics of new houses. The results provide new insights into the drivers of construction-related emissions at local and national levels, and identify opportunities for their reduction. Demolition material flows grow in relation to construction material flows over the analysis period. Increasing the stock turnover rate increases future floor area per person, material requirements, and emissions from construction. Scenarios with reduced floor area and more multifamily homes in new construction have lower floor area growth, material requirements, and emissions from construction.
