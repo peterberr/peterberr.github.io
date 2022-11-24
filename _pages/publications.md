@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+An up to date list of all publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=PUMnjmMAAAAJ&hl=en)
+
 ## Featured publications
 
 **Decarbonization pathways for the residential sector in the United States, 2020-2060** (2022) *Nature Climate Change*, with Eric J.H. Wilson, Janet L. Reyna, Anthony D. Fontanini & Edgar G. Hertwich
