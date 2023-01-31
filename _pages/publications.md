@@ -37,7 +37,7 @@ Housing construction constitutes an important share of annual residential GHG em
 
 **Drivers of change in U.S. residential energy consumption and greenhouse gas emissions, 1990-2015** (2021) *Environmental Research Letters* with Kenneth T. Gillingham & Edgar G. Hertwich
 
-[Paper](10.1088/1748-9326/abe325) (open access)
+[Paper](http://doi.org/10.1088/1748-9326/abe325) (open access)
 [News1](https://environment.yale.edu/news/article/what-is-driving-reductions-in-residential-greenhouse-gas-emissions-in-the-us)
 [News2](https://subscriber.politicopro.com/article/eenews/1063732191)
 [tweet](https://twitter.com/berrill_peter/status/1366852526973321218?s=20&t=0LZdEZL1_JRi2QjP6evJAg)
@@ -57,3 +57,15 @@ Annual greenhouse gas (GHG) emissions from residential energy use in the United 
 ### Abstract
 
 Residential energy demand can be greatly influenced by the types of housing structures that households live in, but few studies have assessed changes in the composition of housing stocks as a strategy for reducing residential energy demand or greenhouse gas (GHG) emissions. In this paper we examine the effects of three sequenced federal policies on the share of new housing construction by type in the U.S., and estimate the cumulative influence of those policies on the composition of the 2015 housing stock. In a counterfactual 2015 housing stock without the policy effects, 14 million housing units exist as multifamily rather than single-family, equal to 14.1% of urban housing. Accompanied by floor area reductions of 0–50%, the switch from single- to multifamily housing reduces energy demand by 27–47% per household, and total urban residential energy by 4.6–8.3%. This paper is the first to link federal policies to housing outcomes by type and estimate associated effects on residential energy and GHG emissions. Removing policy barriers and disincentives to multifamily housing can unlock a large potential for reducing residential energy demand and GHG emissions in the coming decades.
+
+**Capital in the American carbon, energy, and material footprint** (2020) *Journal of Industrial Ecology* with  T. Reed Miller, Yasushi Kondo & Edgar G. Hertwich
+
+[Paper](https://doi.org/10.1111/jiec.12953) 
+[News](https://cie.research.yale.edu/research/incorporating-capital-american-carbon-energy-and-material-footprints)
+[Spreadsheet tool](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fjiec.12953&file=jiec12953-sup-0003-SuppMatS3.xlsm)
+[YouTube instructions for spreadsheet tool](https://www.youtube.com/watch?v=5LIctIVh5B0&feature=youtu.be)
+[github](https://github.com/peterberr/cie-useeio-extensions/tree/master/CIFT-US)
+
+### Abstract
+
+Stocks of fixed capital play a vital role in fulfilling basic human needs and facilitating industrial production. Their build-up requires great quantities of energy and materials, and generates greenhouse gas emissions and other pollution. Capital stocks influence economic production and environmental pollution through their construction and over subsequent decades through their use. We perform an environmental footprint analysis of total consumption, capital investment, and capital consumption in the United States for 2007 and 2012. In 2012, capital consumption accounted for 13%, 19%, and 40% of total carbon, energy, and material footprints, respectively. Housing, federal defense, state and local government education and other services (including household consumption of roads), personal transport fuels, and hospitals are the consumption sectors with largest capital footprints. These sectors provide fundamental needs of shelter, transport, education, and health, underlying the importance of capital services. Endogenizing capital causes the biggest proportional increase to footprints of sectors with low environmental multipliers. This work builds upon existing input-output models of production and consumption in the United States, and provides a capital-inclusive database of carbon, energy, and material footprints and multipliers for 2007 and 2012.
