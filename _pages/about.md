@@ -17,7 +17,7 @@ I earned my PhD at the Center for Industrial Ecology at Yale School of the Envir
 
 I am an active member in the [International Society for Industrial Ecology](https://is4ie.org/) and I serve on the board of the [Life Cycle Sustainability Assessment](https://is4ie.org/sections/lifecycle) section since January 2023. 
 
-A recent CV can be found [here](https://peterberr.github.io/files/Berrill_CV_Jan_2023.pdf)
+A recent CV can be found [here](https://peterberr.github.io/files/Berrill_CV_Full_June_2023.pdf)
 
 ## Research
 
