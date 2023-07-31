@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Marie Skłodowska-Curie Actions Individual Fellowship researcher at [Technische Universität Berlin](https://www.susturbecon.tu-berlin.de/team/), and [MCC Berlin](https://www.mcc-berlin.net/ueber-uns/team/berrill-peter.html), currently working on the project Sustainable Urban Form For Integrated Climate Change Solutions ([SUFFICCS](https://cordis.europa.eu/project/id/101027476)).
+I am a Marie Skłodowska-Curie Actions Individual Fellowship researcher at Technische Universität Berlin, and [MCC Berlin](https://www.mcc-berlin.net/ueber-uns/team/berrill-peter.html), currently working on the project Sustainable Urban Form For Integrated Climate Change Solutions ([SUFFICCS](https://cordis.europa.eu/project/id/101027476)).
 SUFFICCS is a 2-year project which aimed at integrating the modelling and understanding of service levels, energy demand, and emissions from buildings and transport sectors in urban areas. Urban form constitutes the main connection between these sectors, as they jointly produce, and are influenced by urban form.
 
 I am a contributing author to the IPCC Assessment Report 6 Working Group 3 [Buildings](https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter09.pdf) chapter. This is the first IPCC Buildings chapter to review evidence on sufficiency strategies to climate change mitigation. 

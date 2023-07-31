@@ -12,4 +12,4 @@ My research to date has three main themes:
  - Sources and drivers of energy demand and emissions, and decarbonisation pathways for residential buidling in the United States
  - Integrated analysis of energy and emissions from buildings and transport sectors, connected by their joint dependence on urban form.
 
-Further information on each research theme can be found in the Projects and Publications pages
+Further information on each research theme can be found in the [Projects](https://peterberr.github.io/projects/) and [Publications](https://peterberr.github.io/publications/) pages
