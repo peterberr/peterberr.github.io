@@ -9,7 +9,7 @@ I do research on anthropogenic activities linked to climate change, and on decar
 
 My research to date has three main themes: 
  - Life Cycle Analysis of energy systems
- - Sources and drivers of energy demand and emissions, and decarbonisation pathways for residential buidling in the United States
+ - Sources and drivers of energy demand and emissions, and decarbonisation pathways for residential buidlings
  - Integrated analysis of energy and emissions from buildings and transport sectors, connected by their joint dependence on urban form.
 
 Further information on each research theme can be found in the [Projects](https://peterberr.github.io/projects/) and [Publications](https://peterberr.github.io/publications/) pages
