@@ -16,7 +16,7 @@ Urbanisation is a global demographic trend poised to continue throughout the twe
 Papers/sub-modules:
  1. Comparing urban form influences on travel distance, car ownership, and mode choice. Published paper in [Transportation Research Part D](https://doi.org/10.1016/j.trd.2024.104087) link to file in permanent repository [here](https://doi.org/10.14279/depositonce-19831). See also: ([preprint](https://doi.org/10.21203/rs.3.rs-2924076/v1), [poster](https://peterberr.github.io/files/Berlin_Klima_Tag_flyer.pdf), [presentation](https://peterberr.github.io/files/Berrill_ETC_2023_present.pdf))
  
- 2. The combined effect of urban form on embodied and energy emissions from urban housing and mobility (in preparation)
+ 2. The combined effect of urban form on embodied and energy emissions from urban housing and mobility (in preparation). See [conference poster](https://peterberr.github.io/files/GRC_poster_Berrill.pdf)
 
  Code and most recent results can be [here](https://github.com/peterberr/sufficcs_mobility)
 
